@@ -1,0 +1,60 @@
+.container {
+	width: 400px;
+	height: 300px;
+	background: #9dd2ea;
+	margin: 300px auto;
+	border-radius: 20px;
+}
+
+.reset {
+	cursor: pointer;
+	width: 65px;
+	height: 35px;
+	background-color: #e78787;
+	margin: 15px 15px;
+}
+
+.input {
+	height: 33px;
+	width: 212px;
+	padding: 0 40px;
+	background: rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+	font-size: 17px;
+	line-height: 40px;
+	color: white;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+	letter-spacing: 1px;
+}
+
+.result {
+	height: 33px;
+	width: 212px;
+	padding: 0 40px;
+	background: rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+	font-size: 17px;
+	line-height: 40px;
+	color: #ab0000;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+	letter-spacing: 1px;
+}
+
+.block button {
+	height: 40px;
+	width: 50px;
+	cursor: pointer;
+	padding: 0 40px;
+	background: rgba(0, 0, 0, 0.2);
+	border-radius: 3px;
+	box-shadow: inset 0px 4px rgba(0, 0, 0, 0.2);
+	font-size: 17px;
+	line-height: 40px;
+	color: white;
+	text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+	text-align: right;
+	letter-spacing: 1px;
+	margin: 5px 5px;
+}
